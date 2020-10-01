@@ -1,4 +1,4 @@
-Utilizacao de GIt
+## Utilizacao de GIt
 
 O Github constará nosso codigo branchs e todas features do projeto empregado para tal, abaixo veremos os principais comandos para se utilizar github.
 
